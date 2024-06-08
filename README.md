@@ -1,8 +1,7 @@
 # Zenithtrade Privacy Policy Document
 
-- Data collection: zenithtrade collects users’ email information.
-- Data usage: Zenithtrade uses user email data in order to use Chrome's authentication function to identify whether the user is logged in so that the user's Google account storage space can be used to synchronize the user's collection of token information.
-- Data Sharing: zenithtrade will not share this data.
-- User rights: Users have all rights to their data, including access, correction, deletion, etc.
-- Security measures: zenithtrade uses user email data only to identify the user's login status and will not store or share it in any form, which can protect user data from unauthorized access or leakage.
+- Data collection: Our plugin strictly adheres to the principle of user privacy protection and does not collect any personal information or browsing data from users. Our plugin does not access the user's browsing history, stored data or any other personal information.
+- Data usage: Our plugin does not use any user data or transfer data to third parties.
+- Permissions: Our plugin only requests necessary permissions to ensure the normal operation of the plugin. These permissions include [storage, background].
+- Privacy Policy: Our plugin does not involve the collection and use of user data, so there is no privacy policy.
 - Contact information: If users have questions about the privacy policy, they can contact me at sjtulvcheng@gmail.com.
